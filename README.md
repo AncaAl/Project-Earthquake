@@ -3,10 +3,10 @@
 ### Type of analysis:
 Data Analytics Project (Reporting, visualization and prediction)
 
-Objective:
+### Objective:
 The goal of this project is to extract and analyse earthquake data from the dataset, create an interactive dashboard, and make predictions about future earthquakes or tsunamis. 
 
-Steps:
+### Steps:
 
 - Data Extraction and Cleaning: Extract earthquake data from a reliable dataset, clean and preprocess the data for analysis.
 - Data Analysis: Perform detailed analysis to uncover trends, patterns, and insights related to earthquake occurrences.
@@ -14,7 +14,7 @@ Steps:
 - Prediction: Develop models to predict tsunamis.
 
 
-Dataset:
+### Dataset:
 
 Source of DataSet: National Centers for Environmental Information
                    
@@ -22,10 +22,10 @@ https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxYear=2024&
 
 The dataset used for this project contains comprehensive information about past earthquakes and tsunamis, including:
 
-Date and time of occurrence
-Location (latitude and longitude)
-Magnitude
-Depth
-Tsunami indicators
-Other relevant features
+*Date and time of occurrence*
+*Location (latitude and longitude)*
+*Magnitude*
+*Depth*
+*Tsunami indicators*
+*Other relevant features*
 
