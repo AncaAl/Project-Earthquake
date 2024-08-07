@@ -3,7 +3,7 @@
 ### Type of analysis:
 Data Analytics Project (Reporting, visualization and prediction)
 
-### Objective:
+### Overview:
 The goal of this project is to extract and analyse earthquake data from the dataset, create an interactive dashboard, and make predictions about tsunamis. 
 
 ### Steps:
