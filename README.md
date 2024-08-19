@@ -29,3 +29,4 @@ The dataset used for this project contains comprehensive information about past 
   - *Tsunami indicators*
   - *Other relevant features*
 
+### Presentation link: https://www.canva.com/design/DAGNuZjiUn8/hU1--KTH2_GoE-UAqLLtXQ/edit 
